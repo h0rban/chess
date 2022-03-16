@@ -1,0 +1,6 @@
+package model;
+
+public enum GameStatus {
+
+    PLAYING, CHECKMATE, DRAW_STALEMATE, DRAW_REPETITION, DRAW_INSUFFICIENT_MATERIAL
+}
